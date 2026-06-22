@@ -1,5 +1,8 @@
 # Knowledge Retrieval Pipeline
 
+<img width="1893" height="865" alt="image" src="https://github.com/user-attachments/assets/10064836-a65a-4f09-bdce-39aa0fbd2a5a" />
+
+
 Scalable RAG system for unstructured and scanned documents.  
 Combines OCR, semantic search, and citation-grounded question answering.
 
