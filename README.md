@@ -102,7 +102,6 @@ python cli.py clear
 | `DELETE` | `/index` | Wipe the index |
 | `GET`  | `/health` | Liveness probe |
 
-Full interactive docs: http://localhost:8000/docs
 
 ---
 
